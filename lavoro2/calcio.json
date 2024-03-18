@@ -1,0 +1,27 @@
+{
+    "profiles": [
+      {
+        "firstname": "inter",
+        "lastname": "1908",
+        "bio": "L'Inter è uno dei club di calcio più rinomati al mondo, con una storia ricca di successi nazionali e internazionali.Fondato nel 1908, l'Inter ha vinto numerosi titoli della Serie A italiana e ha collezionato trofei prestigiosi, tra cui la Champions League e la Coppa UEFA.Il club ha conosciuto periodi di grande successo, con squadre guidate da allenatori leggendari come Helenio Herrera negli anni '60, che ha portato alla fama il celebre catenaccio",
+        "imgSrc": "/images/inter.jpeg",
+        "id": "inter"
+      },
+   
+      {
+        "firstname": "milan",
+        "lastname": "1899",
+        "bio": "L'AC Milan è uno dei club di calcio più prestigiosi al mondo, con una storia ricca di successi sia a livello nazionale che internazionale. Fondato nel 1899, il Milan ha vinto numerosi titoli della Serie A italiana e ha collezionato un impressionante numero di trofei, tra cui la Champions League. Il club ha avuto periodi di grande dominio nel calcio europeo, specialmente negli anni '80 e '90, sotto la guida di allenatori illustri come Arrigo Sacchi e Fabio Capello.  Tra i giocatori più iconici del Milan ci sono Paolo Maldini, Franco Baresi, Marco van Basten, Ruud Gullit, Andrea Pirlo, Clarence Seedorf e molti altri.Il Milan è conosciuto per i suoi colori tradizionali rossoneri e per la sua tifoseria appassionata. Ha una rivalità storica con l'Inter, con la quale disputa il celebre Derby della Madonnina.",
+        "imgSrc": "/images/milan.jpeg",
+        "id": "milan"
+      },
+   
+      {
+        "firstname": "juve",
+        "lastname": "1897",
+        "bio": "La Juventus è uno dei club di calcio più prestigiosi al mondo, con una storia ricca di successi nazionali e internazionali.Fondata nel 1897, la Juventus è il club italiano più vincente in termini di titoli nazionali, con numerosi trofei della Serie A italiana. Ha anche ottenuto successi significativi a livello europeo, con vittorie in competizioni come la Champions League, la Coppa UEFA e la Coppa delle Coppe.",
+        "imgSrc": "/images/juve.jpeg",
+        "id": "juve"
+      }
+    ]
+   }
